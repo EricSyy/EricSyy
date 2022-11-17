@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Henry-S0&theme=graywhite&show_icons=true&include_all_commits=true&hide_border=true"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ericsyy&theme=graywhite&show_icons=true&include_all_commits=true&hide_border=true"/></a>
 
 <!--
-**Henry-S0/Henry-S0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EricShi/EricShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
