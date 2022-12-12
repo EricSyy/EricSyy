@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Eric</h1>
+<p align="center">
+  <a href="https://twitter.com/ericsyy0"><img src="https://img.shields.io/badge/-@ericsyy0-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="https://github.com/ericsyy"><img src="https://img.shields.io/badge/-ericsyy-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+</p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ericsyy&theme=graywhite&show_icons=true&include_all_commits=true&hide_border=true"/></a>
+
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ericsyy)](https://github.com/LordDashMe/github-contribution-stats/)
+
 
 <!--
 **EricShi/EricShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
