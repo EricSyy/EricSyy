@@ -9,7 +9,7 @@
 * 😇 Still studying hard
 * 🌈 Want to make friends
 
-this is my blog:[blog.erics.ml](https://blog.erics.ml)
+This is my blog: [blog.erics.ml](https://blog.erics.ml)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ericsyy)](https://github.com/LordDashMe/github-contribution-stats/)
 
