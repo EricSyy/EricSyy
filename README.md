@@ -4,7 +4,10 @@
   <a href="https://github.com/ericsyy"><img src="https://img.shields.io/badge/-ericsyy-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
 </p>
 
-
+* 🤣 An ordinary programmer
+* 🧱 Write some blogs when I think of it
+* 😇 Still studying hard
+* 🌈 Want to make friends
 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ericsyy)](https://github.com/LordDashMe/github-contribution-stats/)
