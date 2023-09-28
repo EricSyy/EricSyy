@@ -9,8 +9,7 @@
 * 😇 Still studying hard
 * 🌈 Want to make friends
 
-#### The ml domain is stopped from parsing, waiting for a new domain
-**This is my blog:** [blog.erics.ml](https://blog.erics.ml)
+**This is my blog:** [blog.erics.ml](https://ericsyy.github.io)
 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ericsyy)](https://github.com/LordDashMe/github-contribution-stats/)
